@@ -3,18 +3,18 @@
 ToDoGrpc is a simple ToDo list application that uses ASP.NET Core gRPC, JSON transcoding, SQLite, DBeaver, and Swagger technology.
 
 Features
-1 - Create, read, update, and delete (CRUD) ToDo items
-2 - JSON transcoding for easy communication with non-gRPC clients
-3 - SQLite for lightweight and portable database storage
-4 - DBeaver for database management
-5 - Swagger for API documentation and testing
+1. Create, read, update, and delete (CRUD) ToDo items
+2. JSON transcoding for easy communication with non-gRPC clients
+3. SQLite for lightweight and portable database storage
+4. DBeaver for database management
+5. Swagger for API documentation and testing
 
 ## Prerequisites
-1 - ASP.NET Core 6.0 or later
-2 - Visual Studio 2022
-2 - SQLite
-3 - DBeaver (Optional)
-4 - Swagger
+1. ASP.NET Core 6.0 or later
+2. Visual Studio 2022
+3. SQLite
+4. DBeaver (Optional)
+5. Swagger
 
 ## Getting Started
 
